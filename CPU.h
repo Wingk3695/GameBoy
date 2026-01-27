@@ -58,5 +58,7 @@ class CPU
 {
 public:
     Registers regs;
+
+    //ALU?
 };
 
